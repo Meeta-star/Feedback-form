@@ -23,6 +23,7 @@ Submit Button: Registers the user when clicked (though further back-end function
 
 ## Screenshot
 
+![WhatsApp Image 2025-07-28 at 16 43 53_e9a4f435](https://github.com/user-attachments/assets/409bfe33-214c-40a9-869d-10e43b3ab470)
 
 
 ## Usage
@@ -36,3 +37,6 @@ Click the "Register" button to submit the form (without a backend, this will onl
 
 ## Installation
 This is a simple HTML file. No installation is required, just open the file in your preferred browser.
+
+## 🙋‍♂️ Author
+Made with by Meeta Gulati
